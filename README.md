@@ -1,2 +1,2 @@
 # brain-age-predictor
-ACM Datathon Project
+Ai Model Project
