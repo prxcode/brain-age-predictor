@@ -1,2 +1,2 @@
 # brain-age-predictor
-Ai Model Project
+AI Model Project
